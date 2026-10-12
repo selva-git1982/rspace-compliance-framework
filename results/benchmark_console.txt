@@ -1,0 +1,54 @@
+[
+  {
+    "jobs": 100,
+    "seed": 42,
+    "repeats": 5,
+    "fault_rate": 0.2,
+    "tp": 22,
+    "tn": 78,
+    "fp": 0,
+    "fn": 0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0,
+    "median_seconds": 0.0012564970000426001,
+    "median_microseconds_per_job": 12.564970000426001,
+    "jobs_per_second": 79586.34202597348,
+    "python_version": "3.13.5",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41"
+  },
+  {
+    "jobs": 1000,
+    "seed": 42,
+    "repeats": 5,
+    "fault_rate": 0.2,
+    "tp": 192,
+    "tn": 808,
+    "fp": 0,
+    "fn": 0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0,
+    "median_seconds": 0.013525779000019611,
+    "median_microseconds_per_job": 13.525779000019611,
+    "jobs_per_second": 73932.89510338371,
+    "python_version": "3.13.5",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41"
+  },
+  {
+    "jobs": 10000,
+    "seed": 42,
+    "repeats": 5,
+    "fault_rate": 0.2,
+    "tp": 2057,
+    "tn": 7943,
+    "fp": 0,
+    "fn": 0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0,
+    "median_seconds": 0.13224959400002945,
+    "median_microseconds_per_job": 13.224959400002943,
+    "jobs_per_second": 75614.59886219214,
+    "python_version": "3.13.5",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41"
+  }
+]
+Saved /mnt/data/rspace-compliance-framework/results/benchmark.csv

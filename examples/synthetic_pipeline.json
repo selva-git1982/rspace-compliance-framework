@@ -1,0 +1,1 @@
+{"run_id":"synthetic-0000001","policy_version":"rspace-demo-v1","controls":{"authorization":true,"encryption":true,"integrity":true,"lineage":true,"validation_approval":true,"audit_trail":true},"synthetic":true}

@@ -1,0 +1,4 @@
+jobs,seed,repeats,fault_rate,tp,tn,fp,fn,recall,false_positive_rate,median_seconds,median_microseconds_per_job,jobs_per_second,python_version,platform
+100,42,5,0.2,22,78,0,0,1.0,0.0,0.0006314589991234243,6.314589991234243,158363.4094039637,3.15.0,macOS-26.6.2-arm64-arm-64bit-Mach-O
+1000,42,5,0.2,192,808,0,0,1.0,0.0,0.007030624998151325,7.030624998151325,142234.865358762,3.15.0,macOS-26.6.2-arm64-arm-64bit-Mach-O
+10000,42,5,0.2,2057,7943,0,0,1.0,0.0,0.0539895000110846,5.39895000110846,185221.2003805721,3.15.0,macOS-26.6.2-arm64-arm-64bit-Mach-O
