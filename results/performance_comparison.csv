@@ -1,0 +1,7 @@
+jobs,method,repeats,python,platform,median_microseconds_per_job,p95_repeat_microseconds_per_job,min_microseconds_per_job
+100,limited_baseline,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,0.26961,0.28286,0.26738
+100,rspace,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,12.14077,13.144440000000001,11.31469
+1000,limited_baseline,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,0.273152,0.39966,0.261407
+1000,rspace,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,12.611583000000001,14.015544,11.599407
+10000,limited_baseline,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,0.3050523,0.35803219999999997,0.27428339999999996
+10000,rspace,15,3.13.5,Linux-6.18.44-x86_64-with-glibc2.41,12.7610525,13.3891765,12.2878039
